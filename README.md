@@ -14,7 +14,7 @@ Unfortunately, I cannot open all the data I used in the papers. Hence:
   * Because (1) I am not the copyright holder and/or (2) original data is too large.
 * Important raw data are accessible from Zenodo above.
 
-Some parts will give, e.g., ``FileNotFoundError``. Therefore, I did not put much effort into complete documentation and (unfortunately) sacrificed reproducibility. I was also a bit nervous any change I make to these files will result in different results from the publications. However, if you have a general understanding of Python and the widely used packages (versions as of 2023), you can understand what I did/intended by looking into the codes.
+Some parts will give, e.g., ``FileNotFoundError``, so as noted, the codes will fail if you run them without any modification.
 
 
 ## Contents
