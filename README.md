@@ -1,17 +1,17 @@
 # Ceres Vesta NHAO
 
 This is a repository to archive the **results** (but not all the required data; see the note below) from the codes, used in the following papers:
-* **Paper1**: Bach et al. (2023a) A&A, under review
-* **Paper2**: Bach et al. (2023b) A&A, under review
+* **Paper1**: Bach et al. (2024a) A&A, under review
+* **Paper2**: Bach et al. (2024b) A&A, under review
 
 If you need the raw data, refer to 10.5281/zenodo.7788352 as indicated in Paper2.
 
 ## Important Notes
 Unfortunately, I cannot open all the data I used in the papers. Hence:
 
-* **IMPORTANT**: The codes will **NOT** run perfectly on your machine.
-* Because not all files are included in this repo.
-* Because (1) I am not the copyright holder and/or (2) original data is too large.
+* ⚠️**IMPORTANT**: The codes will **NOT** run perfectly on your machine.
+  * Because not all files are included in this repo.
+  * Because (1) I am not the copyright holder and/or (2) original data is too large.
 * Important raw data are accessible from Zenodo above.
 
 Some parts will give, e.g., ``FileNotFoundError``. Therefore, I did not put much effort into complete documentation and (unfortunately) sacrificed reproducibility. I was also a bit nervous any change I make to these files will result in different results from the publications. However, if you have a general understanding of Python and the widely used packages (versions as of 2023), you can understand what I did/intended by looking into the codes.
