@@ -1,10 +1,11 @@
-# Ceres Vesta NHAO
+# Bach et al. (2024a, b) Archive
 
 This is a repository to archive the **results** (but not all the required data; see the note below) from the codes, used in the following papers:
-* **Paper1**: Bach et al. (2024a) A&A, under review
+* **Paper1**: Bach et al. (2024a) A&A, in press
 * **Paper2**: Bach et al. (2024b) A&A, under review
 
 If you need the raw data, refer to 10.5281/zenodo.7788352 as indicated in Paper2.
+(will be open to public as soon as Paper 2 is officially accepted)
 
 ## Important Notes
 Unfortunately, I cannot open all the data I used in the papers. Hence:
@@ -52,6 +53,11 @@ In ``codes_n_data/figs`` directory:
 
 
 ## History of Submission
+Times in KST (GMT+0900)
 * 2023-08-28: Submission of the paper (initially Paper1&2 were designed to be a single paper)
 * 2023-09-11: Received Referee comment #1.
-* 2023-12-12: Splitted the manuscript into two, submitted based on referee's comments.
+* 2023-12-12: Splitted the manuscript into two and submitted (based on referee's comment).
+* 2023-12-22: Received Referee comment #2 for both papers (minor revision). Editorial office recommended English proofread.
+* 2024-01-08: Resubmission of the manuscript after English proofread (AJE).
+* 2024-01-08: Paper 1 accepted.
+* 2024-01-10: Paper 1 minor language revision.
