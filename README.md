@@ -1,15 +1,15 @@
-# Bach et al. (2024a, b) Archive
+# Bach et al. (2024a, b) NIR Polarimetry Archive
 
 This is a repository to archive the **results** (but not all the required data; see the note below) from the codes, used in the following papers:
 
 * Title: *Quantitative grain size estimation on airless bodies from the negative polarization branch*
 * **Paper1**: "I. Insights from experiments and lunar observations"
   * Bach et al. (2024a) A&A, in press
-  * [arXiv](https://arxiv.org/abs/2401.04611), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240104611B/abstract)
+  * [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240104611B/abstract), [arXiv](https://arxiv.org/abs/2401.04611)
 * **Paper2**: "II. Dawn mission targets, (4) Vesta and (1) Ceres"
   * Bach et al. (2024b) A&A accepted
   * (links tbd...)
-  * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7788352.svg)](https://doi.org/10.5281/zenodo.7788352) (raw data, skymonitor records, etc. 10+GB)
+  * Raw data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7788352.svg)](https://doi.org/10.5281/zenodo.7788352) (including skymonitor records, etc. Total 10+GB)
 
 
 ## Important Notes
