@@ -1,9 +1,11 @@
 # Bach et al. (2024a, b) Archive
 
 This is a repository to archive the **results** (but not all the required data; see the note below) from the codes, used in the following papers:
-* **Paper1**: Bach et al. (2024a) A&A, in press. ([arXiv](https://arxiv.org/abs/2401.04611), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240104611B/abstract))
-* **Paper2**: Bach et al. (2024b) A&A, accepted (link tbd...)
-* Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7788352.svg)](https://doi.org/10.5281/zenodo.7788352) (raw data, etc. total 10+GB)
+
+* Title: *Quantitative grain size estimation on airless bodies from the negative polarization branch*
+* **Paper1**: Bach et al. (2024a) A&A, in press. ([arXiv](https://arxiv.org/abs/2401.04611), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240104611B/abstract)) "I. Insights from experiments and lunar observations"
+* **Paper2**: Bach et al. (2024b) A&A, accepted (link tbd...) ""
+* Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7788352.svg)](https://doi.org/10.5281/zenodo.7788352) (raw data, etc. total 10+GB) "II. Dawn mission targets, (4) Vesta and (1) Ceres"
 
 If you need the raw data, refer to 10.5281/zenodo.7788352 as indicated in Paper2.
 (will be open to public as soon as Paper 2 is officially accepted)
