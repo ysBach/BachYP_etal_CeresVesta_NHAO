@@ -9,10 +9,8 @@ This is a repository to archive the **results** (but not all the required data; 
 * **Paper2**: "II. Dawn mission targets, (4) Vesta and (1) Ceres"
   * Bach et al. (2024b) A&A accepted
   * (links tbd...)
-* Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7788352.svg)](https://doi.org/10.5281/zenodo.7788352) (raw data, etc. total 10+GB)
+  * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7788352.svg)](https://doi.org/10.5281/zenodo.7788352) (raw data, skymonitor records, etc. 10+GB)
 
-If you need the raw data, refer to 10.5281/zenodo.7788352 as indicated in Paper2.
-(will be open to public as soon as Paper 2 is officially accepted)
 
 ## Important Notes
 Unfortunately, I cannot open all the data I used in the papers. Hence:
