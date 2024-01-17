@@ -8,7 +8,7 @@ This is a repository to archive the **results** (but not all the required data; 
   * [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240104611B/abstract), [arXiv](https://arxiv.org/abs/2401.04611)
 * **Paper2**: "II. Dawn mission targets, (4) Vesta and (1) Ceres"
   * Bach et al. (2024b) A&A accepted
-  * (links tbd...)
+  * [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240106616B/abstract), [arXiv](https://arxiv.org/abs/2401.06616)
   * Raw data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7788352.svg)](https://doi.org/10.5281/zenodo.7788352) (including skymonitor records, etc. Total 10+GB)
 
 
