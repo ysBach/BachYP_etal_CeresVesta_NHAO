@@ -1,23 +1,24 @@
-# Bach et al. (2024a, b) NIR Polarimetry Archive
+# Bach et al. (2024a, b) Archive
 
 This is a repository to archive the **results** (but not all the required data; see the note below) from the codes, used in the following papers:
 
 * Title: *Quantitative grain size estimation on airless bodies from the negative polarization branch*
-* **Paper1**: "I. Insights from experiments and lunar observations"
-  * Bach et al. (2024a) A&A, in press
-  * [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240104611B/abstract), [arXiv](https://arxiv.org/abs/2401.04611)
-* **Paper2**: "II. Dawn mission targets, (4) Vesta and (1) Ceres"
-  * Bach et al. (2024b) A&A accepted
-  * [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240106616B/abstract), [arXiv](https://arxiv.org/abs/2401.06616)
-  * Raw data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7788352.svg)](https://doi.org/10.5281/zenodo.7788352) (including skymonitor records, etc. Total 10+GB)
+* **Paper1**: _I. Insights from experiments and lunar observations_
+  * Bach et al. (2024a) A&A, 684, 80 ([ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..80B/abstract), [arXiv](https://arxiv.org/abs/2401.04611), [A&A](https://www.aanda.org/articles/aa/full_html/2024/04/aa47813-23/aa47813-23.html))
+* **Paper2**: _II. Dawn mission targets, (4) Vesta and (1) Ceres_
+  * Bach et al. (2024b) A&A, 684, 81 ([ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..81B/abstract), [arXiv](https://arxiv.org/abs/2401.06616), [A&A](https://www.aanda.org/articles/aa/full_html/2024/04/aa48916-23/aa48916-23.html))
+  * Data reduction package: [NICpolpy](https://github.com/ysBach/NICpolpy) & [NICpolpy SM](https://github.com/ysBach/nicpolpy_sag22sm)
+    * Algorithm paper: Bach et al. (2022) StGal, 5, 4 ([ADS](https://ui.adsabs.harvard.edu/abs/2022StGal...5....4B/abstract), [arXiv](https://arxiv.org/abs/2212.14167), [J-STAGE](https://www.jstage.jst.go.jp/article/starsandgalaxies/5/0/5_4/_article), [StGal](http://www.nhao.jp/research/starsandgalaxies/05.html#2022J-4))
+* Related Raw data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7788352.svg)](https://doi.org/10.5281/zenodo.7788352) (including skymonitor records, etc. Total 10+GB)
+* Part of the related codes: [GitHub repo (here)](https://github.com/ysBach/BachYP_etal_CeresVesta_NHAO)
 
 
 ## Important Notes
 Unfortunately, I cannot open all the data I used in the papers. Hence:
 
 * ⚠️**IMPORTANT**: The codes will **NOT** run perfectly on your machine.
-  * Because not all files are included in this repo.
-  * Because (1) I am not the copyright holder and/or (2) original data is too large.
+  * It is because not all files are included in this repo.
+  * That is because (1) I am not the copyright holder and/or (2) the original data is too large.
 * Important raw data are accessible from Zenodo above.
 
 Some parts will give, e.g., ``FileNotFoundError``, so as noted, the codes will fail if you run them without any modification.
@@ -59,7 +60,7 @@ In ``codes_n_data/figs`` directory:
 
 ## History of Submission
 Times in KST (GMT+0900)
-* 2023-08-28: Submission of the paper (initially Paper1&2 were designed to be a single paper)
+* 2023-08-28: Submission of the paper (initially Papers 1 & 2 were designed to be a single paper)
 * 2023-09-11: Received referee comment #1.
 * 2023-12-12: Splitted the manuscript into two and submitted (based on referee's comment).
 * 2023-12-22: Received referee comment #2 for both papers (minor revision). Editorial office recommended English proofread.
@@ -67,4 +68,5 @@ Times in KST (GMT+0900)
 * 2024-01-08: **Paper 1 accepted**.
 * 2024-01-10: Paper 1 minor language revision. Paper 1 available on arXiv.
 * 2024-01-11: Received referee reply for Paper 2. **Paper 2 is accepted** (2024-01-10 in Paris time).
-* 2024-01
+* 2024-xx-xx: Multiple minor revisions during the proofreading process.
+* 2024-04-05: Both papers appeared online.
