@@ -3,10 +3,8 @@
 This is a repository to archive the **results** (but not all the required data; see the note below) from the codes, used in the following papers:
 
 * Title: *Quantitative grain size estimation on airless bodies from the negative polarization branch*
-* **Paper1**: _I. Insights from experiments and lunar observations_
-  * Bach et al. (2024a) A&A, 684, 80 ([ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..80B/abstract), [arXiv](https://arxiv.org/abs/2401.04611), [A&A](https://www.aanda.org/articles/aa/full_html/2024/04/aa47813-23/aa47813-23.html))
-* **Paper2**: _II. Dawn mission targets, (4) Vesta and (1) Ceres_
-  * Bach et al. (2024b) A&A, 684, 81 ([ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..81B/abstract), [arXiv](https://arxiv.org/abs/2401.06616), [A&A](https://www.aanda.org/articles/aa/full_html/2024/04/aa48916-23/aa48916-23.html))
+* **Paper1**: Bach et al. (2024a) A&A, 684, 80. "_I. Insights from experiments and lunar observations_" ([ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..80B/abstract), [arXiv](https://arxiv.org/abs/2401.04611), [A&A](https://www.aanda.org/articles/aa/full_html/2024/04/aa47813-23/aa47813-23.html))
+* **Paper2**: Bach et al. (2024b) A&A, 684, 81. "_II. Dawn mission targets, (4) Vesta and (1) Ceres_" ([ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..81B/abstract), [arXiv](https://arxiv.org/abs/2401.06616), [A&A](https://www.aanda.org/articles/aa/full_html/2024/04/aa48916-23/aa48916-23.html))
   * Data reduction package: [NICpolpy](https://github.com/ysBach/NICpolpy) & [NICpolpy SM](https://github.com/ysBach/nicpolpy_sag22sm)
     * Algorithm paper: Bach et al. (2022) StGal, 5, 4 ([ADS](https://ui.adsabs.harvard.edu/abs/2022StGal...5....4B/abstract), [arXiv](https://arxiv.org/abs/2212.14167), [J-STAGE](https://www.jstage.jst.go.jp/article/starsandgalaxies/5/0/5_4/_article), [StGal](http://www.nhao.jp/research/starsandgalaxies/05.html#2022J-4))
 * Related Raw data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7788352.svg)](https://doi.org/10.5281/zenodo.7788352) (including skymonitor records, etc. Total 10+GB)
